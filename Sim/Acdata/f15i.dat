@@ -635,7 +635,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -926,7 +926,7 @@ avionicsMLUM2TAOnHUD 0
 avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
 avionicsNewAMRAAMdlz 0
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 0
 avionicsHudNavSpdAltTapesLag 0

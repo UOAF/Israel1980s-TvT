@@ -1304,7 +1304,7 @@ animExhNozABMax 15.0
 animExhNozRate 50.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1593,7 +1593,7 @@ avionicsMLUM2TAOnHUD 0
 avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
 avionicsNewAMRAAMdlz 0
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 0
 avionicsHudNavDeclutterEnabled 0
 avionicsHudNavSpdAltTapesLag 0
@@ -1645,8 +1645,8 @@ wingTipLocation -6.90 15.40 -0.40
 #-----------------------------------------------------
 hasEWS 1
 ecmStrength 0.000
-nChaff 180
-nFlare 60
+nChaff 60
+nFlare 30
 FlareDispensers 4
 FlareSeq 0
 FlarePos1 -11.00 -2.50 0.10

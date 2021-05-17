@@ -24142,15 +24142,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>452</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>453</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>454</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>455</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>456</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>455</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>454</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>453</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>452</WpnOrHpIdx_9>
+        <WpnOrHpIdx_1>578</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>579</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>580</WpnOrHpIdx_3>
+        <WpnOrHpIdx_4>581</WpnOrHpIdx_4>
+        <WpnOrHpIdx_5>582</WpnOrHpIdx_5>
+        <WpnOrHpIdx_6>581</WpnOrHpIdx_6>
+        <WpnOrHpIdx_7>580</WpnOrHpIdx_7>
+        <WpnOrHpIdx_8>579</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>578</WpnOrHpIdx_9>
         <WpnOrHpIdx_10>284</WpnOrHpIdx_10>
         <WpnOrHpIdx_11>285</WpnOrHpIdx_11>
         <WpnCount_0>51</WpnCount_0>
@@ -25234,15 +25234,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>467</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>468</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>469</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>470</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>471</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>470</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>469</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>468</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>467</WpnOrHpIdx_9>
+        <WpnOrHpIdx_1>452</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>453</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>454</WpnOrHpIdx_3>
+        <WpnOrHpIdx_4>455</WpnOrHpIdx_4>
+        <WpnOrHpIdx_5>456</WpnOrHpIdx_5>
+        <WpnOrHpIdx_6>455</WpnOrHpIdx_6>
+        <WpnOrHpIdx_7>454</WpnOrHpIdx_7>
+        <WpnOrHpIdx_8>453</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>452</WpnOrHpIdx_9>
         <WpnOrHpIdx_10>290</WpnOrHpIdx_10>
         <WpnOrHpIdx_11>291</WpnOrHpIdx_11>
         <WpnCount_0>51</WpnCount_0>
@@ -25324,15 +25324,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>472</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>473</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>474</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>475</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>476</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>475</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>474</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>473</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>472</WpnOrHpIdx_9>
+        <WpnOrHpIdx_1>578</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>579</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>580</WpnOrHpIdx_3>
+        <WpnOrHpIdx_4>581</WpnOrHpIdx_4>
+        <WpnOrHpIdx_5>582</WpnOrHpIdx_5>
+        <WpnOrHpIdx_6>581</WpnOrHpIdx_6>
+        <WpnOrHpIdx_7>580</WpnOrHpIdx_7>
+        <WpnOrHpIdx_8>579</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>578</WpnOrHpIdx_9>
         <WpnOrHpIdx_10>292</WpnOrHpIdx_10>
         <WpnOrHpIdx_11>293</WpnOrHpIdx_11>
         <WpnCount_0>51</WpnCount_0>
@@ -32783,7 +32783,7 @@
     <VCD Num="429">
         <CtIdx>3935</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074333696</Flags>
+        <Flags>1074268160</Flags>
         <Name>F-16A-15 EAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -32835,15 +32835,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>573</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>574</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>575</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>576</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>577</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>576</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>575</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>574</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>573</WpnOrHpIdx_9>
+        <WpnOrHpIdx_1>447</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>448</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>449</WpnOrHpIdx_3>
+        <WpnOrHpIdx_4>450</WpnOrHpIdx_4>
+        <WpnOrHpIdx_5>451</WpnOrHpIdx_5>
+        <WpnOrHpIdx_6>450</WpnOrHpIdx_6>
+        <WpnOrHpIdx_7>449</WpnOrHpIdx_7>
+        <WpnOrHpIdx_8>448</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>447</WpnOrHpIdx_9>
         <WpnCount_0>51</WpnCount_0>
         <WpnCount_1>255</WpnCount_1>
         <WpnCount_2>255</WpnCount_2>

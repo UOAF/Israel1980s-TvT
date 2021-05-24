@@ -37,6 +37,11 @@ hmsfont 13;
 // floodlightcolormod r g b where r g b are float between 0.0 to 1.0
 floodlightcolormod 0.4 1.0 0.4; // green
 
+// RPM needls	angle	rpm value
+rpm_needle	125.50	60
+rpm_needle	319.50	96
+rpm_needle	339.50 	100
+
 // various colours
 padlockbg ff7c4706; //padlock background
 padlockliftline ff5ee75e; //padlock liftline. green
@@ -48,12 +53,12 @@ needlecolor1 ffdddddd; // secondary needle color. redish
 dedcolor FF00FF9C; //  DED color
 
 // the LOD models to use.
-cockpitmodel 1693;
-cockpitmodel2 914;
-cockpithudmodel 1698;
-cockpitcanopymodel 1985;
+cockpitmodel 1362;
+cockpitmodel2 928;
+cockpithudmodel 4;
+cockpitcanopymodel 1979;
 cockpitrttcanopymodel 6;
-cockpitwingsmodel 1917;
+cockpitwingsmodel 1914;
 cockpitmodel_empty 1802;
 cockpitcanopymodel_empty 1803;
 cockpitlegsmodel 2015;

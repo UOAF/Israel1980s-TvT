@@ -2557,15 +2557,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>563</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>564</WpnOrHpIdx_2>
+        <WpnOrHpIdx_1>558</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>559</WpnOrHpIdx_2>
         <WpnOrHpIdx_3>560</WpnOrHpIdx_3>
         <WpnOrHpIdx_4>561</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>565</WpnOrHpIdx_5>
+        <WpnOrHpIdx_5>562</WpnOrHpIdx_5>
         <WpnOrHpIdx_6>561</WpnOrHpIdx_6>
         <WpnOrHpIdx_7>560</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>564</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>563</WpnOrHpIdx_9>
+        <WpnOrHpIdx_8>559</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>558</WpnOrHpIdx_9>
         <WpnCount_0>64</WpnCount_0>
         <WpnCount_1>255</WpnCount_1>
         <WpnCount_2>255</WpnCount_2>
@@ -26352,15 +26352,15 @@
         <Det_Naval>0</Det_Naval>
         <Det_Rail>0</Det_Rail>
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
-        <WpnOrHpIdx_1>477</WpnOrHpIdx_1>
-        <WpnOrHpIdx_2>478</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>479</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>480</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>481</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>480</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>479</WpnOrHpIdx_7>
-        <WpnOrHpIdx_8>478</WpnOrHpIdx_8>
-        <WpnOrHpIdx_9>477</WpnOrHpIdx_9>
+        <WpnOrHpIdx_1>452</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>453</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>454</WpnOrHpIdx_3>
+        <WpnOrHpIdx_4>455</WpnOrHpIdx_4>
+        <WpnOrHpIdx_5>456</WpnOrHpIdx_5>
+        <WpnOrHpIdx_6>455</WpnOrHpIdx_6>
+        <WpnOrHpIdx_7>454</WpnOrHpIdx_7>
+        <WpnOrHpIdx_8>453</WpnOrHpIdx_8>
+        <WpnOrHpIdx_9>452</WpnOrHpIdx_9>
         <WpnOrHpIdx_10>273</WpnOrHpIdx_10>
         <WpnOrHpIdx_11>274</WpnOrHpIdx_11>
         <WpnCount_0>51</WpnCount_0>
@@ -31403,6 +31403,7 @@
         <WpnOrHpIdx_7>560</WpnOrHpIdx_7>
         <WpnOrHpIdx_8>559</WpnOrHpIdx_8>
         <WpnOrHpIdx_9>558</WpnOrHpIdx_9>
+        <WpnCount_0>64</WpnCount_0>
         <WpnCount_1>255</WpnCount_1>
         <WpnCount_2>255</WpnCount_2>
         <WpnCount_3>255</WpnCount_3>

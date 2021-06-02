@@ -950,7 +950,7 @@ definerack Mirage-F1_Magic
 	weapjettmodes SELECTIVE
 	rackct 0
 	rackstations 1
-	addwid 385 386
+	addwid 385 386 175
 
 definerack Mirage-F1_S530D
 	rackjettmodes EMERGENCY

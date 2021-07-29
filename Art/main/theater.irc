@@ -38,8 +38,8 @@
 [ADDTEXT] TXT_TEAM_7 "Saudi Arabia"
 
 // -----Scenario 1-----
-[ADDTEXT] TXT_SCENARIO_1 "SERPENTS STING"																	 
-[ADDTEXT] TXT_SC_1_LINE_1 "1988: Israel pre-emptively invades Egypt to eliminate a hostile regime building a powerful military supplemented with advanced Western equipment."
+[ADDTEXT] TXT_SCENARIO_1 ""
+[ADDTEXT] TXT_SC_1_LINE_1 ""
 [ADDTEXT] TXT_SC_1_LINE_2 ""
 [ADDTEXT] TXT_SC_1_LINE_3 ""
 [ADDTEXT] TXT_SC_1_LINE_4 ""
@@ -49,8 +49,8 @@
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 2-----
-[ADDTEXT] TXT_SCENARIO_2 "SOLID TRUSS"
-[ADDTEXT] TXT_SC_2_LINE_1 "Following a coup, a Muslim Brotherhood regime in Egypt begins mobilising its military into the demilitarized Sinai peninsula, threatening to invade southern Israel."
+[ADDTEXT] TXT_SCENARIO_2 ""
+[ADDTEXT] TXT_SC_2_LINE_1 ""
 [ADDTEXT] TXT_SC_2_LINE_2 ""
 [ADDTEXT] TXT_SC_2_LINE_3 ""
 [ADDTEXT] TXT_SC_2_LINE_4 ""
@@ -60,8 +60,8 @@
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 3-----
-[ADDTEXT] TXT_SCENARIO_3 "STANDING WAVE"
-[ADDTEXT] TXT_SC_3_LINE_1 "After years of civil war, a weakened Syrian army deploys in Lebanon in order to cut off supply to opposition forces - alarmingly close to Israeli borders."
+[ADDTEXT] TXT_SCENARIO_3 ""
+[ADDTEXT] TXT_SC_3_LINE_1 ""
 [ADDTEXT] TXT_SC_3_LINE_2 ""
 [ADDTEXT] TXT_SC_3_LINE_3 ""
 [ADDTEXT] TXT_SC_3_LINE_4 ""
@@ -71,8 +71,8 @@
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 4-----
-[ADDTEXT] TXT_SCENARIO_4 "PEACE FOR GALILEE"
-[ADDTEXT] TXT_SC_4_LINE_1 "1982: Israel executes a surpise attack into Lebanon to destroy the PLO and expel Syrian military forces from the region."
+[ADDTEXT] TXT_SCENARIO_4 ""
+[ADDTEXT] TXT_SC_4_LINE_1 ""
 [ADDTEXT] TXT_SC_4_LINE_2 ""
 [ADDTEXT] TXT_SC_4_LINE_3 ""
 [ADDTEXT] TXT_SC_4_LINE_4 ""
@@ -83,8 +83,8 @@
 
 
 // -----Scenario 5-----
-[ADDTEXT] TXT_SCENARIO_5 "OLD SCHOOL"
-[ADDTEXT] TXT_SC_5_LINE_1 "Akrotiri's 5555th are B-2 and F-22 Stealth Squadrons that are available for escort and bombing support. HQ will keep them on standby for your disposal."
+[ADDTEXT] TXT_SCENARIO_5 ""
+[ADDTEXT] TXT_SC_5_LINE_1 ""
 [ADDTEXT] TXT_SC_5_LINE_2 ""
 [ADDTEXT] TXT_SC_5_LINE_3 ""
 [ADDTEXT] TXT_SC_5_LINE_4 ""
@@ -94,8 +94,8 @@
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 6-----
-[ADDTEXT] TXT_SCENARIO_6 "RED LINE"
-[ADDTEXT] TXT_SC_6_LINE_1 "Israel is at war with both syria and Egypt. US sent three carriers to assist. Then Jordan and Palestinians attack."
+[ADDTEXT] TXT_SCENARIO_6 ""
+[ADDTEXT] TXT_SC_6_LINE_1 ""
 [ADDTEXT] TXT_SC_6_LINE_2 ""
 [ADDTEXT] TXT_SC_6_LINE_3 ""
 [ADDTEXT] TXT_SC_6_LINE_4 ""

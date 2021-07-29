@@ -5269,17 +5269,15 @@
         <WpnIdx_0>329</WpnIdx_0>
         <WpnIdx_1>214</WpnIdx_1>
         <WpnIdx_2>216</WpnIdx_2>
-        <WpnIdx_3>232</WpnIdx_3>
-        <WpnIdx_4>237</WpnIdx_4>
-        <WpnIdx_5>239</WpnIdx_5>
-        <WpnIdx_6>66</WpnIdx_6>
+        <WpnIdx_3>237</WpnIdx_3>
+        <WpnIdx_4>239</WpnIdx_4>
+        <WpnIdx_5>66</WpnIdx_5>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
         <WpnCount_3>2</WpnCount_3>
-        <WpnCount_4>2</WpnCount_4>
-        <WpnCount_5>4</WpnCount_5>
-        <WpnCount_6>1</WpnCount_6>
+        <WpnCount_4>4</WpnCount_4>
+        <WpnCount_5>1</WpnCount_5>
     </WLD>
     <WLD Num="231">
         <Name>RF-4C 2/7</Name>
@@ -9966,6 +9964,7 @@
         <WpnIdx_0>174</WpnIdx_0>
         <WpnIdx_1>175</WpnIdx_1>
         <WpnCount_0>1</WpnCount_0>
+        <WpnCount_1>1</WpnCount_1>
     </WLD>
     <WLD Num="478">
         <Name>F-16AM-J 2/8</Name>
@@ -11467,6 +11466,10 @@
     </WLD>
     <WLD Num="560">
         <Name>F-4 (3)</Name>
+        <WpnIdx_0>165</WpnIdx_0>
+        <WpnIdx_1>166</WpnIdx_1>
+        <WpnCount_0>1</WpnCount_0>
+        <WpnCount_1>1</WpnCount_1>
     </WLD>
     <WLD Num="561">
         <Name>F-4 (4,5,6)</Name>

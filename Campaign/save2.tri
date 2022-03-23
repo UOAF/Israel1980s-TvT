@@ -3,28 +3,28 @@
 //
 // initialize
 #TOTAL_EVENTS 21
-#SET_TEMPO 250
+#SET_TEMPO 500
 #ENDINIT
 //
 // Event #1
-// IDF begins a large offensive
+// IDF goes on the defensive
 #IF_EVENT_PLAYED 1
 #ELSE
-#IF_ON_OFFENSIVE 2
-#DO_EVENT 1
-#PLAY_MOVIE 109
-#RESET_EVENT 2
+#IF_ON_OFFENSIVE 6
+	#DO_EVENT 1
+	#SHIFT_INITIATIVE 6 2 20
+	#RESET_EVENT 2
 #ENDIF
 #ENDIF
 //
 // Event #2
-// IDF goes on the defensive
+// Egypt goes on the defensive
 #IF_EVENT_PLAYED 2
 #ELSE
-#IF_ON_OFFENSIVE 5
-#DO_EVENT 2
-#PLAY_MOVIE 110
-#RESET_EVENT 1
+#IF_ON_OFFENSIVE 2
+	#DO_EVENT 2
+	#SHIFT_INITIATIVE 2 6 20
+	#RESET_EVENT 1
 #ENDIF
 #ENDIF
 //
